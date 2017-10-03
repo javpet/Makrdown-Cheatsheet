@@ -75,3 +75,14 @@ const exampleFunction = ()=> {
 }
 ```
 ---
+### Links
+
+This is a link to [Google](https://google.com)
+
+### Images
+
+![Kittens](http://placekitten.com/250/400)
+
+Do you want to cute kittens as well?
+
+[![Kittens](http://placekitten.com/350/400)](http://placekitten.com)

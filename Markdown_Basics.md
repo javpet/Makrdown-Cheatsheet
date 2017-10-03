@@ -38,3 +38,40 @@ This double-asterisk **works** and this underscore __works__ too. But be ***cons
 ### Horizontal Rule
 ----------
 ***
+
+### Lists
+#### Numbered Lists
+1. Item 1
+2. Item 2
+3. Item 3
+
+
+1. Item 1
+    1. Item 1
+    2. Item 2
+
+#### Bulleted Lists
+* Item1
+* Item2
+* Item3
+
+
+* Item1
+    * Item1
+    * Item2
+    * Item3
+        * Item1
+
+---
+
+### Code
+
+To install a latest versinon of NPM, you can type `npm install npm@latest -g`
+
+This is how a code block looks like with syntax highlighting:
+```Javascript
+const exampleFunction = ()=> {
+    console.log("example");
+}
+```
+---

@@ -7,9 +7,10 @@ What has been covered so far:
 - Emphasis and bolding text
 - Blockquotes
 - Horizontal lines
-
-Upcoming:
 - Creating lists
 - Adding code
 - Adding links
 - Images
+
+Upcoming:
+Whatever you want guys!
